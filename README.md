@@ -57,6 +57,11 @@ $ cd AEDS3-TP02-JS
 $ yarn
 
 # Clique em Run/Run Without Debugging [CTRL + F5]
+
+$Alternativamente você pode:
+
+$Instalar a extensão Code Runner no vscode
+$Pressionar CTRL + Alt + N para executar: Nesse caso o resultado também será exibido na guia Output
 ````
 
 ````
