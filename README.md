@@ -50,6 +50,8 @@ custos incorrem:
 # Clone este repositório
 $ git clone https://github.com/gultes/AEDS3-TP02-JS.git
 
+$Com nodejs instalado na máquina
+
 # Acesse o diretório do projeto pelo Visual Studio Code por exemplo
 $ cd AEDS3-TP02-JS
 
